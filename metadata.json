@@ -1,0 +1,6 @@
+{
+  "name": "BagMatch - Aviation Lost & Found Recovery Platform",
+  "description": "Intelligent aviation lost-and-found baggage reporting, AI-assisted matching, and recovery coordination platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
